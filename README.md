@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/nildiert/nildiert/master/nil_octocat.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" height=550px/>
+<img align="right" src="https://github.com/bue221/bue221/blob/main/octocat.png" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" height=550px/>
 
 ### Hi, I'm Nildiert 👋
 
